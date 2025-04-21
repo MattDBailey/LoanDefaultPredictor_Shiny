@@ -47,7 +47,7 @@ This is a simple machine learning web application built using **Shiny for Python
 ## Running the App
 Run the app using the following command:
 ```bash
-shiny run --reload [LoanPayback_Shiny_DEMO.py](http://_vscodecontentref_/0)
+shiny run --reload LoanPayback_Shiny_DEMO.py
 
 ## File Structure
 LoanDefaultShiny_DEMO/
